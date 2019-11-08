@@ -1,0 +1,15 @@
+2-)Pangram bulmaca
+
+Bir pangram alfabenin her harfini en az bir kere içeren bir cümledir. Örneğin, "The quick brown fox jumps over the lazy dog" cümlesi bir pangramdır, çünkü A-Z harflerini en az bir kez kullanır (durum ilgisizdir).
+
+Bir dize verilen, bir pangram olup olmadığını algıla. Varsa True döndür, değilse False. Sayıları ve noktalama işaretlerini dikkate almayın.
+
+Örnek Input:
+
+The quick brown fox jumps over the lazy dog
+
+Output:
+
+True
+
+

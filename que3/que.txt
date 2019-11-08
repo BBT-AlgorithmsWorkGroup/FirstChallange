@@ -1,0 +1,26 @@
+3-)Süreklilik çarpımları
+
+“persistence” adında bir fonksiyon yazın
+Fonksiyon minimum iki basamakli bir sayı kabul etsin
+Bu sayının basamaklarını bir biri ile çarpın ve bulduğu sonuca aynı adımları uygulayın.
+Sonuç tek basamaklı olana kadar devam edin.
+Kaç defada bulduğunuz ekrana yazdırın.
+
+Örnek Input:
+39
+
+Process:
+3*9 = 27 (1), 2*7 = 14(2), 1*4=4(3)
+
+Output:
+3
+
+Örnek Input:
+999
+
+Process:
+9*9*9 = 729(1), 7*2*9 = 126(2), 1*2*6 = 12(3), 1*2 = 2(4).
+
+Output:
+3
+
